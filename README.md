@@ -91,7 +91,7 @@ Contributions, issues, and feature requests are welcome! Feel free to submit a [
 
 ## 📧 **Contact**
 
-For any queries or feedback, feel free to reach out at: [your-email@example.com](mailto:dhruvbalchandani1@gmail.com)
+For any queries or feedback, feel free to reach out at: [your-email@example.com](mailto:khushbalchandani1@gmail.com)
 
 # adhd_tracker
 # adhd_tracker
